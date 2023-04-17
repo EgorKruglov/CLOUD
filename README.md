@@ -2,6 +2,8 @@
 
 https://replit.com/@IeghorKrughlov
 
+https://chat-gpt.org/chat
+
 https://www.bigdataschool.ru/wiki/mapreduce
 https://www.bigdataschool.ru/wiki/hive
 https://learn.microsoft.com/ru-ru/azure/hdinsight/use-pig
